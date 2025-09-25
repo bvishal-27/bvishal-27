@@ -16,7 +16,7 @@ A passionate developer with experience in building full-stack web applications u
 ### 🛒 Sales Savvy - E-commerce Platform
 Full-stack e-commerce application with user authentication and payment processing
 - **Tech:** Java, Spring Boot, React.js, MySQL, JWT
-- **GitHub:** [View Repository](
+- **GitHub:** [View Repository](https://github.com/bvishal-27/SalseSavvy)
 
 ### 📚 LearnSphere - E-Learning System
 Learning platform with course enrollment and payment integration
